@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Diandra Oyarz\u00FAn C\\Desktop\\BIPOL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D655E5B8-7AFB-D0FA-E07D-FC0E2425C909}|BIPOL.csproj|c:\\users\\diandra oyarz\u00FAn c\\desktop\\bipol\\controllers\\administradorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D655E5B8-7AFB-D0FA-E07D-FC0E2425C909}|BIPOL.csproj|solutionrelative:controllers\\administradorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D655E5B8-7AFB-D0FA-E07D-FC0E2425C909}|BIPOL.csproj|c:\\users\\diandra oyarz\u00FAn c\\desktop\\bipol\\datos\\eventodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D655E5B8-7AFB-D0FA-E07D-FC0E2425C909}|BIPOL.csproj|solutionrelative:datos\\eventodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D655E5B8-7AFB-D0FA-E07D-FC0E2425C909}|BIPOL.csproj|c:\\users\\diandra oyarz\u00FAn c\\desktop\\bipol\\views\\administrador\\editarevento.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D655E5B8-7AFB-D0FA-E07D-FC0E2425C909}|BIPOL.csproj|solutionrelative:views\\administrador\\editarevento.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EventoDatos.cs",
+              "DocumentMoniker": "C:\\Users\\Diandra Oyarz\u00FAn C\\Desktop\\BIPOL\\Datos\\EventoDatos.cs",
+              "RelativeDocumentMoniker": "Datos\\EventoDatos.cs",
+              "ToolTip": "C:\\Users\\Diandra Oyarz\u00FAn C\\Desktop\\BIPOL\\Datos\\EventoDatos.cs",
+              "RelativeToolTip": "Datos\\EventoDatos.cs",
+              "ViewState": "AgIAAMMBAAAAAAAAAAAowNMBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T13:27:36.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdministradorController.cs",
+              "DocumentMoniker": "C:\\Users\\Diandra Oyarz\u00FAn C\\Desktop\\BIPOL\\Controllers\\AdministradorController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdministradorController.cs",
+              "ToolTip": "C:\\Users\\Diandra Oyarz\u00FAn C\\Desktop\\BIPOL\\Controllers\\AdministradorController.cs",
+              "RelativeToolTip": "Controllers\\AdministradorController.cs",
+              "ViewState": "AgIAAKwAAAAAAAAAAAAwwLUAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T13:24:24.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EditarEvento.cshtml",
+              "DocumentMoniker": "C:\\Users\\Diandra Oyarz\u00FAn C\\Desktop\\BIPOL\\Views\\Administrador\\EditarEvento.cshtml",
+              "RelativeDocumentMoniker": "Views\\Administrador\\EditarEvento.cshtml",
+              "ToolTip": "C:\\Users\\Diandra Oyarz\u00FAn C\\Desktop\\BIPOL\\Views\\Administrador\\EditarEvento.cshtml",
+              "RelativeToolTip": "Views\\Administrador\\EditarEvento.cshtml",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAUwE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-04T00:14:46.326Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
